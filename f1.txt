@@ -1,4 +1,4 @@
 First change.
 Second change.
 Updated in branch dev.
-This update is from submitter1.
+This update is from merged submitters.
